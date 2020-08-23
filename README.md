@@ -1,4 +1,4 @@
-# Crack_Database
+# DIMEC-Crack_Database
 # Semantic Segmentation Model for Crack Images from Concrete Bridges for Mobile Devices
 #
 ## Enrique Lopez Droguett, Juan Tapia, Claudio Yanez and Ruben Boroschek.
