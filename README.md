@@ -9,4 +9,10 @@ A DenseNet architecture was proposed with only 13 layers with one feature extrac
 ![auto3](https://user-images.githubusercontent.com/45126159/90991141-fb1a6700-e574-11ea-9518-d742093fa0d9.png)
 #
 This datasets are available only for research purpoose.
-## For request the password, please send an email to juan.tapia.f@usach.cl
+
+Please cite this paper:
+
+  Lopez Droguett, Enrique, Juan Tapia, Claudio Yanez, and Ruben Boroschek. “Semantic Segmentation Model for Crack Images from Concrete Bridges for Mobile Devices.” Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, (October 2020). https://doi.org/10.1177/1748006X20965111.
+  Reference format: 
+
+## For request the password, please send an email to juan.tapia-farias@h-da.de
