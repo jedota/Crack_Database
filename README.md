@@ -13,6 +13,5 @@ This datasets are available only for research purpoose.
 Please cite this paper:
 
   Lopez Droguett, Enrique, Juan Tapia, Claudio Yanez, and Ruben Boroschek. “Semantic Segmentation Model for Crack Images from Concrete Bridges for Mobile Devices.” Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, (October 2020). https://doi.org/10.1177/1748006X20965111.
-  Reference format: 
 
 ## For request the password, please send an email to juan.tapia-farias@h-da.de
