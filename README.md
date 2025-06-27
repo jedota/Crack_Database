@@ -10,7 +10,7 @@ A DenseNet architecture was proposed with only 13 layers with one feature extrac
 #
 This datasets are available only for research purpoose.
 
-[Downloading the dataaset](https://www.dropbox.com/scl/fo/ddjgx2a614f3xgo96y2hf/ACZjD5Ha2QbGUrF10Y_cDFE?rlkey=a0bi0h0kd455re9j1lxjq9hyo&st=z8kb62j9&dl=0)
+[Downloading the dataset](https://www.dropbox.com/scl/fo/ddjgx2a614f3xgo96y2hf/ACZjD5Ha2QbGUrF10Y_cDFE?rlkey=a0bi0h0kd455re9j1lxjq9hyo&st=z8kb62j9&dl=0)
 
 
 # Citation:
